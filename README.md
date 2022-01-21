@@ -1,4 +1,4 @@
-# Jupiter Core Example
+# MetaDEX plugin service based on Jupiter SDK
 ![1*cXNgzu0Pvj4HwOLw4Akwqg](https://user-images.githubusercontent.com/34560707/145749257-e48cb199-521b-476e-9d81-f79bb45ef834.png)
 
 <p align="center">
